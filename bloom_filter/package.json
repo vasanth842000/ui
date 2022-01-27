@@ -1,0 +1,17 @@
+{
+  "name": "dxperts-keys-bloom-filter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bloom_filter_wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cat wallet.json | node bloom_filter_wallet.js > filtered_wallet.json",
+    "start-windows": "type wallet.json | node bloom_filter_wallet.js > filtered_wallet.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.12.2",
+    "dxpertsjs": "git+https://gitlab.com/dxperts1/dxpertsjs.git#7eecb3246a8a65ebac6c83725f6de2be58282fc5"
+  }
+}

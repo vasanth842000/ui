@@ -1,0 +1,1 @@
+Bir vekil adınıza oy kullanımını yönetir. Dxperts forumunda vekil olarak görev almaya gnüllü kişileri bulabilirsiniz  [Dxpertstalk](https://dxpertscommunity.com). 

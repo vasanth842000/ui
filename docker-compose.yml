@@ -1,0 +1,19 @@
+version: "2"
+volumes:
+    wallet_build: {}
+
+services:
+    web-wallet:
+        container_name: dxperts-wallet
+        image: bitbrainstech/dxperts-wallet
+        # build: .
+        ports:
+            - "8080:80"
+        # volumes:
+        # - wallet_build:/dxperts-ui/build/dist
+        # - .:/dxperts-ui
+        # environment:
+        #     - CHAIN_ID=d806986a8852d0be4123f889e508a497ab97f267173bbac24918fb77e6ab4173
+        #     - CHAIN_NODE_IP=ws://192.168.1.10:8090
+        env_file:
+            - ./.env

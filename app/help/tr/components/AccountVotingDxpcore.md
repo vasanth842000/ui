@@ -1,0 +1,1 @@
+[Kurul üyeleri](introduction/dxpcore) blok zincirine ait ücretler, blok süreleri  ve diğer bir çok şey gibi dinamik parametrelerin değiştirilmesini teklif edebilirler. Dxperts'in nasıl işlediğine dair derin bilgi gerektiren büyük bir sorumluluk pozisyonudur.

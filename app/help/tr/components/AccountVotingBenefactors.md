@@ -1,0 +1,1 @@
+[İşçiler](introduction/benefactors) Dxperts'e özgü bir kavramdır. İşçiler, blok zincirinin kendisinden aldıkları maaş karşılığında hizmet sağlayan tekliflerdir. Teklifin amacını açıklayan bir web veya forum bağlantısı teklifin içine dahil edilmelidir, teklifleri burada görebilirsiniz :  [Dxpertstalk - Stakeholder Proposals Board](https://dxpertscommunity.com).
